@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red">Hi 👋, I'm Yasser Hamada</h1>
+<h1 align="center" style="color:red;">Hi 👋, I'm Yasser Hamada</h1>
 <h3 align="center">A passionate Full Stack developer with MEARN</h3>
 
 <h3 align="left">Connect with me:</h3>
