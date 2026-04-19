@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasser Hamada</h1>
-<h3 align="center">A passionate Full Stack developer with MEARN</h3>
+<h3 align="center">Senior Full Stack MERN Instructor & Developer | 6+ Years Exp | Mentored 2600+ Developers | React.js & Next.js Specialist</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
